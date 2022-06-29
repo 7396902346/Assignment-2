@@ -1,0 +1,26 @@
+enter no of employe
+3
+Enter employe name
+Deepu
+Enter employe desig
+Teacher
+Enter phno
+12345
+Enter employe name
+Deepika
+Enter employe desig
+Teacher
+Enter phno
+67890
+Enter employe name
+Harshini
+Enter employe desig
+Software
+Enter phno
+123456
+{1: ['Deepika', 'Teacher', 12345], 2: ['Harshini', 'Teacher', 67890], 3: ['Indhu', 'Software', 123456]}
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+Output : pass
